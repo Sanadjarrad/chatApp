@@ -10,7 +10,7 @@ ChatApp is a basic implementation of Java sockets, designed to demonstrate the f
 
 ### 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/Sanadjarrad/chatApp.git
 ```
 ### 2. Open the project in IntelliJ IDEA or your preferred IDE.
 ### 3. Ensure you have JDK 8 or higher installed.
